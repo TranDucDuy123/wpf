@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/ttsR8d/UCg/gJF3wFu25IjWk4s3L4zE/RW7eMelfVWbJ1Q+XYcUyiyR4hCd45Uoh9UxwUG07DlQv6FoK2QzQ==",
+  "success": true,
+  "projectFilePath": "D:\\project\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dyly3\\.nuget\\packages\\materialdesigncolors\\3.1.0\\materialdesigncolors.3.1.0.nupkg.sha512",
+    "C:\\Users\\dyly3\\.nuget\\packages\\materialdesignthemes\\5.1.0\\materialdesignthemes.5.1.0.nupkg.sha512",
+    "C:\\Users\\dyly3\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
